@@ -1,5 +1,5 @@
-# chatbot-rnn
-A toy chatbot powered by deep learning and trained on data from Reddit. Built on TensorFlow v1.5.0 and Python v3.6.1.
+# Chatbot_Tensorflow 
+Chatbot with data imported from DBpedia's wikipedia dataset and Reddit data using Tensorflow v1.5 and Python v3.6.1
 
 Here is a sample chat transcript (not cherry-picked). Lines that start with ">" are me; the lines without ">" are the chatbot's responses.
 
