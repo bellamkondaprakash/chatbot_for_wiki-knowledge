@@ -96,6 +96,12 @@ There are a few options here.
 
 - **Simulate the United States Supreme Court.** I've included a corpus of United States Supreme Court oral argument transcripts (2.7 MB compressed) in the project under the `data/scotus` directory.
 
+-**For DBpedia data ** Run the script named as dbpedia.sh as
+```
+bash dbpedia.sh
+```
+-** DBpedia** DBpedia data is also available here as in the [link](http://wiki.dbpedia.org/datasets/dbpedia-version-2016-10)
+
 Once you have training data in hand (and located in a subdirectory of the `data` directory):
 
 ### Train your own model
